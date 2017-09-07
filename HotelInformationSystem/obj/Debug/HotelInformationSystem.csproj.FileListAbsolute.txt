@@ -1,0 +1,4 @@
+C:\Users\josh\Documents\GitHub\HotelInformationSystem\HotelInformationSystem\bin\Debug\HotelInformationSystem.exe.config
+C:\Users\josh\Documents\GitHub\HotelInformationSystem\HotelInformationSystem\obj\Debug\HotelInformationSystem.csprojResolveAssemblyReference.cache
+C:\Users\josh\Documents\GitHub\HotelInformationSystem\HotelInformationSystem\obj\Debug\HotelInformationSystem.Properties.Resources.resources
+C:\Users\josh\Documents\GitHub\HotelInformationSystem\HotelInformationSystem\obj\Debug\HotelInformationSystem.csproj.GenerateResource.Cache
